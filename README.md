@@ -1,4 +1,4 @@
-### Hi there, I'm [stokedowl](https://github.com/stokedowl) 🦉
+### Hi there, I'm [Madhuri](https://github.com/stokedowl) 🦉
 
 I'm a Full Stack Developer and Cloud Strategist hailing from the vibrant city of Bangalore, India! An avid open-source enthusiast and contributor, I firmly believe in the philosophy of Free and Open Source Software (FOSS). With a deep commitment to community and collaboration, I draw inspiration from visionaries like Linus Torvalds, Kailash Nadh (CTO of Zerodha), and Richard Stallman. 🚀
 
